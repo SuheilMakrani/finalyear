@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IRent</string>
+    <string name="search_Action">Search</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logout_action">Logout</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
