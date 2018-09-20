@@ -35,7 +35,10 @@
         <activity android:name=".expensesFrag" />
         <activity android:name=".messagesFrag" />
         <activity android:name=".notificationFrag" />
-        <activity android:name=".AddProperty"></activity>
+        <activity android:name=".AddProperty" />
+        <activity android:name=".basics" />
+        <activity android:name=".propertyImages" />
+        <activity android:name=".Agreement"></activity>
     </application>
 
 </manifest>
