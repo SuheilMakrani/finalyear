@@ -9,6 +9,30 @@
         <item>Female</item>
         <item>Other</item>
     </string-array>
+
+    <string-array name="housetypes">
+        <item>Mansion</item>
+        <item>Bungalow</item>
+        <item>Villas</item>
+        <item>Terrace</item>
+        <item>Townhouse</item>
+        <item>Apartment</item>
+        <item>Condominium</item>
+        <item>Penthouse</item>
+        <item>Soho</item>
+        <item>Shop Houses</item>
+    </string-array>
     <string name="title_activity_agreement">agreement</string>
+
+    <string name="mansionDesc">A mansion built up on a huge piece of owned land. The size of this house bigger than a bungalow.</string>
+    <string name="bungalowDesc">A bungalow is built on a smaller owned land. The size of this house is much bigger than others local houses.</string>
+    <string name="villasDesc">Villas in Malaysia usually much fancier and the design more towards nature and traditional concept. They use a lot of natural wood color or product to build up villas.</string>
+    <string name="terraceDesc">A terraced house is a tall but narrow house which is attached on both sides to another house. </string>
+    <string name="townhouseDesc">A townhouse is similar to a terraced house. Townhouses are houses built for inner-city living.</string>
+    <string name="apartmentDesc">An apartment is an American term for a home where you live (British English: flat) in a separate home within a large building where others also have their own home.</string>
+    <string name="condominiumDesc">A condominium is a style of an apartment which is individually owned. Normally by the person living there, although you can rent from the condo owner.Each condo owner is allowed to buy and sell their own condo and own a small percentage rights to the land and common areas, like the gym or tennis court.This is different from an apartment where the entire building is owned by one person or company.</string>
+    <string name="penthouseDesc">A penthouse is an apartment or unit on the highest floor of an apartment building, condominium or hotel. Penthouses are typically differentiated from other apartments by luxury features.</string>
+    <string name="sohoDesc">Soho stands for small office home office. This type of building can convert your property into a house or it also could be a small office. Depending on the owner of the unit</string>
+    <string name="shophousesDesc">A shop house is mostly two or three stories high, with a shop on the ground floor for mercantile activity and a residence above the shop.</string>
 
 </resources>
