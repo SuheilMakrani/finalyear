@@ -21,4 +21,30 @@
 
     </android.support.v7.widget.Toolbar>
 
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@color/colorPrimaryDark"
+        app:itemTextColor="@color/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/navmenu">
+
+    </android.support.design.widget.BottomNavigationView>
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/navigation">
+
+    </FrameLayout>
+
 </android.support.constraint.ConstraintLayout>
