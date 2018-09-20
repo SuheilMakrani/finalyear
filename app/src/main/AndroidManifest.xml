@@ -30,11 +30,12 @@
             android:name=".createAccount"
             android:screenOrientation="portrait" />
         <activity android:name=".TenantHome" />
-        <activity android:name=".propertyFragment" />
-        <activity android:name=".tenantFragment" />
-        <activity android:name=".expensesFragment" />
-        <activity android:name=".messagesFragment" />
-        <activity android:name=".notificationFragment"></activity>
+        <activity android:name=".propertyFrag" />
+        <activity android:name=".tenantFrag" />
+        <activity android:name=".expensesFrag" />
+        <activity android:name=".messagesFrag" />
+        <activity android:name=".notificationFrag" />
+        <activity android:name=".AddProperty"></activity>
     </application>
 
 </manifest>
