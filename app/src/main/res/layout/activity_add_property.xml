@@ -28,7 +28,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="64dp"
         app:cardBackgroundColor="#E6E6E6"
         app:cardCornerRadius="8dp"
         app:cardElevation="8dp"
@@ -88,10 +88,10 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="32dp"
         app:cardBackgroundColor="#E6E6E6"
         app:cardCornerRadius="8dp"
         app:cardElevation="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/money"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/basics">
@@ -145,18 +145,18 @@
         android:id="@+id/money"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="64dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="32dp"
         app:cardBackgroundColor="#E6E6E6"
         app:cardCornerRadius="8dp"
         app:cardElevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/images">
+        app:layout_constraintStart_toStartOf="parent">
 
         <android.support.constraint.ConstraintLayout
             android:layout_width="match_parent"

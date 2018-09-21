@@ -10,6 +10,20 @@
         <item>Other</item>
     </string-array>
 
+    <string-array name="noti">
+        <item>1 Month</item>
+        <item>2 Months</item>
+        <item>3 Months</item>
+    </string-array>
+
+
+    <string-array name="tenurePeriod">
+        <item>6 Months</item>
+        <item>12 Months</item>
+        <item>18 Months</item>
+        <item>24 Months</item>
+    </string-array>
+
     <string-array name="housetypes">
         <item>Mansion</item>
         <item>Bungalow</item>

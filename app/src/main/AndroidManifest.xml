@@ -3,6 +3,8 @@
     package="com.example.suhei.irent">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -29,16 +31,22 @@
         <activity
             android:name=".createAccount"
             android:screenOrientation="portrait" />
-        <activity android:name=".TenantHome" />
-        <activity android:name=".propertyFrag" />
-        <activity android:name=".tenantFrag" />
-        <activity android:name=".expensesFrag" />
-        <activity android:name=".messagesFrag" />
-        <activity android:name=".notificationFrag" />
-        <activity android:name=".AddProperty" />
-        <activity android:name=".basics" />
-        <activity android:name=".propertyImages" />
-        <activity android:name=".Agreement"></activity>
+        <activity android:name=".TenantHome"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".AddProperty"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".basics"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".propertyImages"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Agreement"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat"/>
+
+
     </application>
 
 </manifest>
