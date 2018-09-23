@@ -31,22 +31,25 @@
         <activity
             android:name=".createAccount"
             android:screenOrientation="portrait" />
-        <activity android:name=".TenantHome"
-            android:screenOrientation="portrait"/>
-
-        <activity android:name=".AddProperty"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".basics"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".propertyImages"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".Agreement"
-            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".TenantHome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddProperty"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".basics"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".propertyImages"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Agreement"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
-            android:theme="@style/Base.Theme.AppCompat"/>
-
-
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity android:name=".displayProperty"></activity>
     </application>
 
 </manifest>
