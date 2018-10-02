@@ -3,6 +3,10 @@
     <string name="search_Action">Search</string>
     <string name="account_settings">Account Settings</string>
     <string name="logout_action">Logout</string>
+    <string name="notification1">Tenant is requesting to rent your property</string>
+    <string name="notification2">Owner has Approved your request</string>
+    <string name="notification3">Owner has Declined your request</string>
+    <string name="channel_id">rent_channel</string>
 
     <string-array name="gender">
         <item>Male</item>
@@ -48,5 +52,10 @@
     <string name="penthouseDesc">A penthouse is an apartment or unit on the highest floor of an apartment building, condominium or hotel. Penthouses are typically differentiated from other apartments by luxury features.</string>
     <string name="sohoDesc">Soho stands for small office home office. This type of building can convert your property into a house or it also could be a small office. Depending on the owner of the unit</string>
     <string name="shophousesDesc">A shop house is mostly two or three stories high, with a shop on the ground floor for mercantile activity and a residence above the shop.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">CH-name</string>
+    <string name="channel_description">CH-desc</string>
 
 </resources>
