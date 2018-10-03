@@ -66,11 +66,17 @@
 
         <activity android:name=".userTenantDetails">
             <intent-filter>
-                <action android:name="com.example.suhei.irent.TARGETNOTIFICATION"></action>
-                <category android:name = "android.intent.category.DEFAULT"></category>
+                <action android:name="com.example.suhei.irent.TARGETNOTIFICATION" />
 
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+        </activity>
+        <activity android:name=".Payment">
+            <intent-filter>
+                <action android:name="com.example.suhei.irent.PAYMENT" />
 
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </activity>
     </application>
 

@@ -4,8 +4,12 @@
     <string name="account_settings">Account Settings</string>
     <string name="logout_action">Logout</string>
     <string name="notification1">Tenant is requesting to rent your property</string>
-    <string name="notification2">Owner has Approved your request</string>
+    <string name="notification2">Owner has Accepted your request</string>
     <string name="notification3">Owner has Declined your request</string>
+    <string name="notification4">Tenant has made the Payment</string>
+    <string name="notification5">Rent is Due</string>
+    <string name="notification6">Rent has been paid</string>
+    <string name="notification7">End of tenure approaching</string>
     <string name="channel_id">rent_channel</string>
 
     <string-array name="gender">
