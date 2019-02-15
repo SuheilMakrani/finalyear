@@ -3,14 +3,25 @@
     <string name="search_Action">Search</string>
     <string name="account_settings">Account Settings</string>
     <string name="logout_action">Logout</string>
-    <string name="notification1">Tenant is requesting to rent your property</string>
-    <string name="notification2">Owner has Accepted your request</string>
-    <string name="notification3">Owner has Declined your request</string>
-    <string name="notification4">Tenant has made the Payment</string>
+    <string name="notification1">is requesting to rent your property</string>
+    <string name="notification2">has Accepted your request</string>
+    <string name="notification3">has Declined your request</string>
+    <string name="notification4">has made the Payment</string>
     <string name="notification5">Rent is Due</string>
-    <string name="notification6">Rent has been paid</string>
-    <string name="notification7">End of tenure approaching</string>
+    <string name="notification6">It is time to pay rent</string>
+    <string name="notification7">has paid the rent</string>
+    <string name="notification8">Contract Expiring soon</string>
+    <string name="notification9">Contract has Expired</string>
+    <string name="notification10">has decided to renew your contract.</string>
+    <string name="notification11">has decided to end your contract.</string>
+    <string name="notification12">has accepted and renewed their contract.</string>
+    <string name="notification13">has decided to end their contract.</string>
+    <string name="notification14">has sent you a message</string>
+    <string name="notification15">Dear Tenant, Your Contract has Expired</string>
+
     <string name="channel_id">rent_channel</string>
+    <string name="overdue">Overdue</string>
+    <string name="ontime">Paid</string>
 
     <string-array name="gender">
         <item>Male</item>
@@ -33,16 +44,16 @@
     </string-array>
 
     <string-array name="housetypes">
-        <item>Mansion</item>
-        <item>Bungalow</item>
-        <item>Villas</item>
-        <item>Terrace</item>
-        <item>Townhouse</item>
-        <item>Apartment</item>
-        <item>Condominium</item>
-        <item>Penthouse</item>
-        <item>Soho</item>
-        <item>Shop Houses</item>
+        <item>mansion</item>
+        <item>bungalow</item>
+        <item>villa</item>
+        <item>terrace</item>
+        <item>townhouse</item>
+        <item>apartment</item>
+        <item>condominium</item>
+        <item>penthouse</item>
+        <item>soho</item>
+        <item>shop houses</item>
     </string-array>
     <string name="title_activity_agreement">agreement</string>
 

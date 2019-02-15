@@ -3,9 +3,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/search_action_button"
-        android:icon="@drawable/ic_search_black_24dp"
-        android:title="@string/search_Action"
+        android:id="@+id/susan"
+        android:icon="@drawable/ic_susan"
+        android:title="Susan"
         app:showAsAction="always" />
     <item
         android:id="@+id/account_setting_button"

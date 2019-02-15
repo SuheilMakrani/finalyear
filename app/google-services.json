@@ -23,14 +23,19 @@
           }
         },
         {
+          "client_id": "1069823456666-49lgnctvqjo85i2tvgb4m325votdsrkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suhei.irent",
+            "certificate_hash": "9877f1334e0cfed3ef26af545e469b76ebe5d7a5"
+          }
+        },
+        {
           "client_id": "1069823456666-pc3249jnmcsjlpq87j747u4b2pnhksu4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
-        {
-          "current_key": "AIzaSyCoVzGTzTMFm7jXB7bxqbS3nYyO510TyTs"
-        },
         {
           "current_key": "AIzaSyCoVzGTzTMFm7jXB7bxqbS3nYyO510TyTs"
         }

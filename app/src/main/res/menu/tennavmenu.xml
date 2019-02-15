@@ -3,24 +3,24 @@
 
     <item
         android:id="@+id/allproperty"
-        android:icon="@drawable/buildings"
+        android:icon="@drawable/ic_property"
         android:title="All Properties" />
     <item
         android:id = "@+id/tenpropertynav"
-        android:icon = "@drawable/property"
-        android:title="Property"/>
+        android:icon = "@drawable/ic_myhome"
+        android:title="My Property"/>
     <item
         android:id="@+id/tenmessages"
-        android:icon="@drawable/message"
+        android:icon="@drawable/ic_messages"
         android:title="Messages" />
     <item
         android:id="@+id/tennotification"
-        android:icon="@drawable/notifications"
+        android:icon="@drawable/ic_notifications"
         android:title="Notifications" />
 
     <item
         android:id="@+id/tenlikes"
-        android:icon="@drawable/like"
+        android:icon="@drawable/ic_likes"
         android:title="Likes" />
 
 </menu>
